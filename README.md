@@ -1,1 +1,0 @@
-# SEOJIN-Lab.github.io
