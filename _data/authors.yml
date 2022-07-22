@@ -8,7 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi ~
+    Hi there I'm Seojin Jang 🙌🏻
+    
+    I’m currently studying ```Computer Vision``` and 🔎 interested in ```MLOps``` 
+
     
   # This photo will be used in the about section
   picture:
