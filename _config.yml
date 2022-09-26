@@ -54,8 +54,8 @@ menu:
     url:               /study/
   - title:             Project
     url:               /project/
-  - title:             Algorithm
-    url:               /algorithm/
+  - title:             Algorithms
+    url:               /algorithms/
   - title:             Etc
     url:               /etc/
 
